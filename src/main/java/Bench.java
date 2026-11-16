@@ -1,1 +1,5 @@
-public class Bench { public static void main(String[] a) { System.out.println("ok"); } }
+public class Bench {
+    public static void main(String[] args) {
+        System.out.println("ok");
+    }
+}
